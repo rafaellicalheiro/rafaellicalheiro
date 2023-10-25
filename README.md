@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem vindo ao meu perfil! 🎱
 
-<!--
-**rafaellicalheiro/rafaellicalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rafaelli Calheiro Dziurkowski
 
-Here are some ideas to get you started:
+.Estou estudando na plataforma Alura
+.Estou se desenvolvendo na linguagens JavaScript, HTML e CSS.
+Utilizo ete espaço para minha organizaçao e compartilhamento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode entrar em contato comigo! 📫
+
+rafaelli.dziurkowski@ecola.pr.gov.br
+
+
+
+![](https://media.tenor.com/bFcBEbfClHgAAAAC/lilo-and-stich.gif)
